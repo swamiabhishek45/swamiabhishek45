@@ -5,11 +5,13 @@
 
 - 👨‍💻 Frontend Developer
 
-- 💬 Ask me about **CSS, JavaScript**
+- 🚀 Currently, I'm diving deep into **React.js**
 
 - 📫 How to reach me **abhishekswami1435@gmail.com**
 
-- ⚡ Fun fact **"🌍 On a mission to visit every continent."**
+- 📫 Let's connect! Whether it's coding, collaboration, or just a friendly chat, I'm always open to new opportunities and ideas. Feel free to explore my repositories, and don't hesitate to reach out.
+
+- Happy coding! 🖥️✨
 
 
 <h3 align="left">Languages and Tools:</h3>
