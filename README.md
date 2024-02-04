@@ -1,10 +1,11 @@
 <h1 align="center">Hi 👋, I'm Abhishek Swami</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
+
+
 <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-
 - 👨‍💻 Frontend Developer
-
+  
 - 🚀 Currently, I'm diving deep into **React.js**
 
 - 📫 How to reach me **abhishekswami1435@gmail.com**
@@ -13,6 +14,7 @@
 
 - Happy coding! 🖥️✨
 
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Keep+Learning,+Keep+Growing)](https://git.io/typing-svg)
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"><a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
