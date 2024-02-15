@@ -15,6 +15,7 @@
 - Happy coding! 🖥️✨
 
  [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Keep+Learning,+Keep+Growing)](https://git.io/typing-svg)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=swamiabhishek45&label=Profile%20views&color=0e75b6&style=flat" alt="swamiabhishek45" /> </p>
 
  ## Languages and Tools
 
@@ -28,7 +29,8 @@
  <!--<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=swamiabhishek45&theme=tokyonight" alt="swamiabhishek45" /></p> -->
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=swamiabhishek45&label=Profile%20views&color=0e75b6&style=flat" alt="swamiabhishek45" /> </p>
+
+ 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
