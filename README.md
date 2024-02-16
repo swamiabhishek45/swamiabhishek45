@@ -4,9 +4,10 @@
 
 <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-- 👨‍💻 Frontend Developer
-  
 - 🚀 Currently, I'm diving deep into **React.js**
+  
+- 🧿 My Coding Journey on 
+<a href="https://twitter.com/swamiabhishek45" target="blank">X</a>
 
 - 📫 How to reach me **abhishekswami1435@gmail.com**
 
