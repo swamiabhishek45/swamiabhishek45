@@ -6,10 +6,10 @@
 
 - 🚀 Currently, I'm diving deep into **React.js**
   
-- 🧿 My Coding Journey on 
+- 🧑‍💻 I post my daily Coding Journey on 
 <a href="https://twitter.com/swamiabhishek45" target="blank">X</a>
 
-- 📫 How to reach me **abhishekswami1435@gmail.com**
+- 📧 How to reach me **abhishekswami1435@gmail.com**
 
 - 📫 Let's connect! Whether it's coding, collaboration, or just a friendly chat, I'm always open to new opportunities and ideas. Feel free to explore my repositories, and don't hesitate to reach out.
 
