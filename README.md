@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Abhishek Swami</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-
-<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+<!--  <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"> -->
 
 - 🚀 Currently, I'm diving deep into **React.js**
   
@@ -13,7 +13,7 @@
 
 - 📫 Let's connect! Whether it's coding, collaboration, or just a friendly chat, I'm always open to new opportunities and ideas. Feel free to explore my repositories, and don't hesitate to reach out.
 
-- Happy coding! 🖥️✨
+- ⚡ Fun fact: You know what `typeof NaN` returns? Try it out!
 
  [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Keep+Learning,+Keep+Growing)](https://git.io/typing-svg)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=swamiabhishek45&label=Profile%20views&color=0e75b6&style=flat" alt="swamiabhishek45" /> </p>
