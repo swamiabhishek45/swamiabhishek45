@@ -20,7 +20,7 @@
 
  ## Languages and Tools
 
-<p align="left"> <a href="https://github.com/thinkright20"><img src="https://skillicons.dev/icons?i=c,cpp,html,css,js,react,vite,tailwindcss,redux,appwrite,nodejs,expressjs,mongodb,git,github,replit,vscode,"> </a> </p       
+<p align="left"> <a href="https://github.com/thinkright20"><img src="https://skillicons.dev/icons?i=c,cpp,html,css,js,react,vite,tailwindcss,redux,appwrite,nodejs,npm,expressjs,mongodb,git,github,replit,vscode"> </a> </p       
 
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=swamiabhishek45&theme=tokyonight&show_icons=true&locale=en" alt="swamiabhishek45" /></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=swamiabhishek45&theme=tokyonight&show_icons=true&locale=en&layout=compact" alt="swamiabhishek45" /></p>
