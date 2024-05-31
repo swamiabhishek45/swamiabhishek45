@@ -13,7 +13,7 @@
 
 - 📫 Let's connect! Whether it's coding, collaboration, or just a friendly chat, I'm always open to new opportunities and ideas. Feel free to explore my repositories, and don't hesitate to reach out.
 
-- ⚡ Fun fact: You know what `typeof NaN` returns? Try it out!
+- ⚡ Fun fact: I Am An Engineer.
 
  [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Keep+Learning,+Keep+Growing)](https://git.io/typing-svg)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=swamiabhishek45&label=Profile%20views&color=0e75b6&style=flat" alt="swamiabhishek45" /> </p>
