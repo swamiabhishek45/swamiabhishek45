@@ -15,24 +15,25 @@
  [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Keep+Learning,+Keep+Growing)](https://git.io/typing-svg)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=swamiabhishek45&label=Profile%20views&color=0e75b6&style=flat" alt="swamiabhishek45" /> </p>
 
- ## Languages and Tools
+### <h2 align="center"> Languages and Tools</h2>
 
-<p align="left"> <a href="https://github.com/thinkright20"><img src="https://skillicons.dev/icons?i=c,cpp,html,css,bootstrap,js,react,vite,next,tailwindcss,redux,appwrite,typescript,nodejs,npm,expressjs,mongodb,git,github,postman,replit,vscode,vercel,windows"> </a> </p       
+<p align="center"> <a href="https://github.com/thinkright20"><img align="center" src="https://skillicons.dev/icons?i=c,cpp,html,css,bootstrap,js,react,vite,next,tailwindcss,redux,appwrite,typescript,nodejs,npm,expressjs,mongodb,git,github,postman,replit,vscode,vercel,windows"> </a> </p>       
+                                                                                                                                                                                                                     
+
+### <h2 align="center">  Coding Stats 🐦</h2>
+<div align="center">
+
+![Leetcode Stats](https://leetcard.jacoblin.cool/swamiabhishek45)
+</div>
+
+### <h2 align="center"> GitHub Stats 📊</h2>
 
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=swamiabhishek45&theme=tokyonight&show_icons=true&locale=en" alt="swamiabhishek45" /></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=swamiabhishek45&theme=tokyonight&show_icons=true&locale=en&layout=compact" alt="swamiabhishek45" /></p>
 
+### <h2 align="center">Connect with me</h2>
+<div align="center">
 
+ [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/swamiabhishek45) [![X](https://img.shields.io/badge/.com-black?logo=X&logoColor)](https://x.com/swamiabhishek45/)
 
-<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=swamiabhishek45&theme=tokyonight" alt="swamiabhishek45" /></p> -->
-
-
-
- 
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/swamiabhishek45" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="swamiabhishek45" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/swamiabhishek45/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/swamiabhishek45/" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/swamiabhishek45" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="swamiabhishek45" height="30" width="40" /></a>
-</p>
+</div>
