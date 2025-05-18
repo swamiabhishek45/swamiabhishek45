@@ -19,12 +19,12 @@
 
 <p align="center"> <a href="https://github.com/thinkright20"><img align="center" src="https://skillicons.dev/icons?i=c,cpp,html,css,bootstrap,js,react,vite,next,tailwindcss,redux,appwrite,typescript,nodejs,npm,expressjs,mongodb,git,github,postman,replit,vscode,vercel,windows"> </a> </p>       
                                                                                                                                                                                                                      
-
+<!--
 ### <h2 align="center">  Coding Stats 🐦</h2>
 <div align="center">
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/swamiabhishek45)
-</div>
+</div> -->
 
 ### <h2 align="center"> GitHub Stats 📊</h2>
 
