@@ -17,7 +17,7 @@
 
 ### <h2 align="center"> Languages and Tools</h2>
 
-<p align="center"> <a href="https://github.com/thinkright20"><img align="center" src="https://skillicons.dev/icons?i=c,cpp,html,css,bootstrap,js,react,vite,next,tailwindcss,redux,appwrite,typescript,nodejs,npm,expressjs,mongodb,git,github,postman,replit,vscode,vercel,windows"> </a> </p>       
+<p align="center"> <a href="https://github.com/thinkright20"><img align="center" src="https://skillicons.dev/icons?i=c,cpp,html,css,bootstrap,js,react,vite,next,tailwindcss,redux,appwrite,typescript,nodejs,npm,expressjs,mongodb,git,github,postman,replit,vscode,vercel,linux"> </a> </p>       
                                                                                                                                                                                                                      
 <!--
 ### <h2 align="center">  Coding Stats 🐦</h2>
@@ -25,11 +25,6 @@
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/swamiabhishek45)
 </div> -->
-
-### <h2 align="center"> GitHub Stats 📊</h2>
-
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=swamiabhishek45&theme=tokyonight&show_icons=true&locale=en" alt="swamiabhishek45" /></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=swamiabhishek45&theme=tokyonight&show_icons=true&locale=en&layout=compact" alt="swamiabhishek45" /></p>
 
 ### <h2 align="center">Connect with me</h2>
 <div align="center">
