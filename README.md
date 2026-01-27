@@ -1,34 +1,43 @@
-<h1 align="center">Hi 👋, I'm Abhishek Swami</h1>
-<h3 align="center">A passionate full stack developer from India</h3>
+<h1 align="center">Welcome to My GitHub!</h1>
 
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
-<!--  <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"> -->
+<p align="center">
+  <strong>Abhishek Swami</strong> · Software Engineer
+</p>
 
-- 🚀 Currently, I'm  building <a href="https://sakurasensei.com">SakuraSensei</a> - Japanses Learning App
+<p align="center">
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white" alt="Next.js"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" alt="React"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white" alt="Express.js"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" alt="MongoDB"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
 
-- 📧 How to reach me **abhishekswami1435@gmail.com**
+</p>
 
-- 📫 Let's connect! Whether it's coding, collaboration, or just a friendly chat, I'm always open to new opportunities and ideas. Feel free to explore my repositories, and don't hesitate to reach out.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=swamiabhishek45&label=Profile%20views&color=0e75b6&style=flat" alt="swamiabhishek45"/>
+</p>
 
-- ⚡ Fun fact: I Am An Engineer.
+---
 
- [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Keep+Learning,+Keep+Growing)](https://git.io/typing-svg)
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=swamiabhishek45&label=Profile%20views&color=0e75b6&style=flat" alt="swamiabhishek45" /> </p>
+<h3 align="center">Connect with me</h3>
 
-### <h2 align="center"> Languages and Tools</h2>
 
-<p align="center"> <a href="https://github.com/thinkright20"><img align="center" src="https://skillicons.dev/icons?i=c,cpp,html,css,bootstrap,js,react,vite,next,tailwindcss,redux,appwrite,typescript,nodejs,npm,expressjs,mongodb,git,github,postman,replit,vscode,vercel,linux"> </a> </p>       
-                                                                                                                                                                                                                     
-<!--
-### <h2 align="center">  Coding Stats 🐦</h2>
-<div align="center">
-
-![Leetcode Stats](https://leetcard.jacoblin.cool/swamiabhishek45)
-</div> -->
-
-### <h2 align="center">Connect with me</h2>
-<div align="center">
-
- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/swamiabhishek45) [![X](https://img.shields.io/badge/.com-black?logo=X&logoColor)](https://x.com/swamiabhishek45/)
-
-</div>
+<p align="center">
+  <a href="https://swamiabhishek45.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white" alt="Portfolio"/>
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/swamiabhishek45/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  &nbsp;
+  <a href="https://x.com/swamiabhishek45">
+    <img src="https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white" alt="X"/>
+  </a>
+  &nbsp;
+  <a href="https://github.com/swamiabhishek45">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</p>
