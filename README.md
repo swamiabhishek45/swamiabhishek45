@@ -1,7 +1,7 @@
 <h1 align="center">Welcome to My GitHub!</h1>
 
 <p align="center">
-  <strong>Abhishek Swami</strong> · Software Engineer
+  <strong>Abhishek Swami</strong> · Full Stack AI Engineer
 </p>
 
 <p align="center">
